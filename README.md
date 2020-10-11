@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! Hope you are having a great day ✨👋
+<br>
+🏗️ Currently under construction 🚧
+✨ Exploring different technologies ✨
+
+![Alt Text](https://media.giphy.com/media/hvN3SkNMRSB7mZa8JL/giphy.gif)
+
+[![Arupam's github stats](https://github-readme-stats.vercel.app/api?username=arupam&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **arupam/arupam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
