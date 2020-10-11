@@ -1,7 +1,7 @@
-### Hello! Hope you are having a great day ✨👋
+## Hello! Hope you are having a great day ✨👋
 <br>
-🏗️ Currently under construction 🚧<br>
-✨ Exploring different technologies ✨<br>
+  🏗️ Currently under construction 🚧<br>
+  ✨ Exploring different technologies ✨<br>
 
 ![Alt Text](https://media.giphy.com/media/hvN3SkNMRSB7mZa8JL/giphy.gif) 
 <br> 
