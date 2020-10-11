@@ -1,9 +1,10 @@
 ### Hello! Hope you are having a great day ✨👋
 <br>
-🏗️ Currently under construction 🚧  
-✨ Exploring different technologies ✨  
-![Alt Text](https://media.giphy.com/media/hvN3SkNMRSB7mZa8JL/giphy.gif)  
+🏗️ Currently under construction 🚧<br>
+✨ Exploring different technologies ✨<br>
 
+![Alt Text](https://media.giphy.com/media/hvN3SkNMRSB7mZa8JL/giphy.gif) 
+<br> 
 [![Arupam's github stats](https://github-readme-stats.vercel.app/api?username=arupam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
